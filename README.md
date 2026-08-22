@@ -35,8 +35,10 @@ class Human:
     def __init__(self):
         self.name = "A K Kavan"
         self.languages = [
-            "Python", "Java", "Dart",
-            "C++"
+            "C",
+            "C++", "Python", 
+            "Java", "Dart",
+            
         ]
 
         self.interests = [
