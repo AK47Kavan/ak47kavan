@@ -36,8 +36,7 @@ class Human:
         self.name = "A K Kavan"
         self.languages = [
             "C",
-            "C++", "Python", 
-            "Java", "Dart",
+            "C++", "Python"
             
         ]
 
