@@ -44,7 +44,6 @@ class Human:
             "AI",
             "Computer Vision",
             "Distributed Systems",
-            "Flutter",
             "Low Level Stuff",
             "Things I Probably Shouldn't Touch"
         ]
